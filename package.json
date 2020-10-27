@@ -1,6 +1,6 @@
 {
   "name": "automatic-changelog",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Automatic Changelog Generation for your JavaScript Project or Library",
   "main": "index.js",
   "scripts": {
