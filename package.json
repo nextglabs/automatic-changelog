@@ -1,0 +1,30 @@
+{
+  "name": "automatic-changelog",
+  "version": "1.0.0",
+  "description": "Automatic Changelog Generation for your JavaScript Project or Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nextglabs/automatic-changelog.git"
+  },
+  "keywords": [
+    "nodejs",
+    "git",
+    "changelog",
+    "npm",
+    "github",
+    "packages"
+  ],
+  "author": "Allani Bassem (@nextglabs)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nextglabs/automatic-changelog/issues"
+  },
+  "homepage": "https://github.com/nextglabs/automatic-changelog#readme",
+  "devDependencies": {
+    "generate-changelog": "^1.8.0"
+  }
+}
